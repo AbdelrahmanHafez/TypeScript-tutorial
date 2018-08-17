@@ -1,2 +1,2 @@
-# TypeScript-tutorial
+# TypeScript tutorial
 Trying out TypeScript
